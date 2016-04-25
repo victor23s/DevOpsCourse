@@ -1,0 +1,28 @@
+#EXTM3U
+https://raw.githubusercontent.com/rafanew/miamilist/master/totalplay
+#EXTINF:0,Boomerang 
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL324/PROFILE05.m3u8
+#EXTINF:0,Tooncast
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL328/PROFILE05.m3u8
+#EXTINF:0,TIIN
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL325/PROFILE05.m3u8
+#EXTINF:0,Disney XD
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL322/PROFILE05.m3u8
+#EXTINF:0,Cartoon Network
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL320/PROFILE05.m3u8
+#EXTINF:0,Nickelodeon
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL317/PROFILE05.m3u8
+#EXTINF:0,Nick HD
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL315/PROFILE05.m3u8
+#EXTINF:0,NickToons
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL314/PROFILE05.m3u8
+#EXTINF:0,Disney Channel
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL312/PROFILE03.m3u8
+#EXTINF:0,Nick Jr
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL310/PROFILE05.m3u8
+#EXTINF:0,Disney Jr
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL308/PROFILE05.m3u8
+#EXTINF:0,CBeebies
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL305/PROFILE05.m3u8
+#EXTINF:0,Discovery Kids
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL303/PROFILE05.m3u8
