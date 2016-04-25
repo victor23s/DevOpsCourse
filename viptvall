@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0,Canal 1
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL1/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL1/canal1.m3u8
 #EXTINF:0,Canal 2
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL2/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL2/canal2.m3u8
 #EXTINF:0,Canal 7
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL7/canal107.m3u8
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL7/canal07.m3u8
 #EXTINF:0,Canal 13
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL13/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL13/canal113.m3u8
 #EXTINF:0,Canal 17
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL17/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL17/canal17.m3u8
 #EXTINF:0,Canal 23
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL23/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL23/canal23.m3u8
 #EXTINF:0,Canal 40
 http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL40/PROFILE05.m3u8
 #EXTINF:0,Canal 45
