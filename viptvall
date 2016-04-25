@@ -1,47 +1,73 @@
 #EXTM3U
-#EXTINF:0,Canal 1
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL1/canal1.m3u8
-#EXTINF:0,Canal 2
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL2/canal2.m3u8
-#EXTINF:0,Canal 7
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL7/canal07.m3u8
-#EXTINF:0,Canal 13
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL13/canal113.m3u8
+#EXTINF:0,TotalPlay
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL1/canal1.m3u8
+#EXTINF:0,Azteca Noticias
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL2/canal2.m3u8
+#EXTINF:0,Azteca 7
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL7/canal107.m3u8
+#EXTINF:0,Azteca 13
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL13/canal113.m3u8
 #EXTINF:0,Canal 17
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL17/canal17.m3u8
-#EXTINF:0,Canal 23
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL23/canal23.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL17/canal17.m3u8
+#EXTINF:0,Azteca 13 (23)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL23/canal23.m3u8
 #EXTINF:0,Canal 40
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL40/PROFILE05.m3u8
-#EXTINF:0,Canal 45
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL45/PROFILE05.m3u8
-#EXTINF:0,Canal 52
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL52/PROFILE05.m3u8
-#EXTINF:0,Canal 55
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL55/PROFILE05.m3u8
-#EXTINF:0,Canal 57 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL57/PROFILE05.m3u8
-#EXTINF:0,Canal 63 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL63/PROFILE05.m3u8
-#EXTINF:0,Canal 2 HD 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:0,Canal 103 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL103/PROFILE05.m3u8
-#EXTINF:0,Foro TV HD 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL104/PROFILE05.m3u8
-#EXTINF:0,Canal 5 HD 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL105/PROFILE05.m3u8
-#EXTINF:0,Azteca 7 HD 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL107/PROFILE05.m3u8
-#EXTINF:0,Gala TV HD
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL109/PROFILE05.m3u8
-#EXTINF:0,Once TV 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL111/PROFILE05.m3u8
-#EXTINF:0,El Trece HD 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:0,Proyecto 40 HD 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL140/PROFILE05.m3u8
-#EXTINF:0,Canal 143 
-http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL143/PROFILE05.m3u8
-#EXTINF:0,Canal 511  
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/canal511.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL40/canal140.m3u8
+#EXTINF:0,Azteca Novela (45)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL45/canal250.m3u8
+#EXTINF:0,Canal de las Estrellas (52)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL52/canal52.m3u8
+#EXTINF:0,Canal de las Estrellas (1749-1)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL52/canal%201749.m3u8
+#EXTINF:0,Canal de las Estrellas (1749)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL52/canal1749.m3u8
+#EXTINF:0,Canal 5 (55)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL55/canal55.m3u8
+#EXTINF:0,Canal 5 (1747)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL55/canal%201747.m3u8
+#EXTINF:0,Azteca 7 HD (57) 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL57/canal17.m3u8
+#EXTINF:0,Azteca 13 (63) 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL63/canal23.m3u8
+#EXTINF:0,Canal de las Estrellas HD (102) 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/canal102.m3u8
+#EXTINF:0,Canal 103 (725)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL103/canal725.m3u8
+#EXTINF:0,Foro TV HD (104)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/canal104.m3u8
+#EXTINF:0,Foro TV HD (104-2)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/ch104.m3u8
+#EXTINF:0,Canal 5 HD (105)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/canal105.m3u8
+#EXTINF:0,Azteca 7 (107) 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/canal107.m3u8
+#EXTINF:0,Gala TV HD (109)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/canal109.m3u8
+#EXTINF:0,Once TV HD (111)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/canal111.m3u8
+#EXTINF:0,Azteca 13 (113)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/canal113.m3u8
+#EXTINF:0,Proyecto 40 HD (140)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/canal140.m3u8
+#EXTINF:0,Cadena 3 (143)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL143/canal143.m3u8
+#EXTINF:0,Canal 145 (145)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL145/canal145.m3u8
+#EXTINF:0,Teleformula (161)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL161/canal161.m3u8
+#EXTINF:0,Multimedios Monterrey (167)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/canal167.m3u8
+#EXTINF:0,El Canal del Hombre Moderno (169)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL169/canal169.m3u8
+#EXTINF:0,FOX (201)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/canal201.m3u8
+#EXTINF:0,Sony (203)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/canal203.m3u8
+#EXTINF:0,Warner (205)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/canal205.m3u8
+#EXTINF:0,Universal Channel HD (207)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/canal207.m3u8
+#EXTINF:0,FX HD (209)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/canal258.m3u8
+#EXTINF:0,A&E (211)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/canal211.m3u8
