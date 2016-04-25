@@ -43,4 +43,5 @@ http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL113/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL140/PROFILE05.m3u8
 #EXTINF:0,Canal 143 
 http://vod.cdn.iutpcdn.com:80/LIVE/H01/CANAL143/PROFILE05.m3u8
- 
+#EXTINF:0,Canal 511  
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/canal511.m3u8
