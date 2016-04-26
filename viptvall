@@ -71,3 +71,9 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/canal207.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/canal258.m3u8
 #EXTINF:0,A&E (211)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/canal211.m3u8
+#EXTINF:0,Azteca 13 (213)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/canal213.m3u8
+#EXTINF:0,Canal 215 (215)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/canal215.m3u8
+#EXTINF:0,Canal 217 (217)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/canal217.m3u8
