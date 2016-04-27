@@ -3,3 +3,5 @@
 http://vod.cdn.iutpcdn.com/VOD/H01/4K/HLS2/PROFILE06.m3u8
 #EXTINF:0,FOX 1 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL115/PROFILE05.m3u8
+#EXTINF:0,TDN 503
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL503/PROFILE05.m3u8
