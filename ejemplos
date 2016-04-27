@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:0,Prueba  4K
 http://vod.cdn.iutpcdn.com/VOD/H01/4K/HLS2/PROFILE06.m3u8
+#EXTINF:0,Canal de las Estrellas
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+#EXTINF:0,Canal 5
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+#EXTINF:0,Azteca 7
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+#EXTINF:0,Azteca 13
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+#EXTINF:0,Canal de las Estrellas 152
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL152/PROFILE05.m3u8
 #EXTINF:0,FOX 1 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL115/PROFILE05.m3u8
 #EXTINF:0,TDN 503
